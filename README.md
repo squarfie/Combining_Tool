@@ -1,3 +1,5 @@
+# NOTE: THIS TOOL USES OUTDATED LIBRARIES, PLEASE USE THE UPDATE VERSION, Combining Tool v2. Thanks!
+
 # How to Use
 
 1. Run the executable
@@ -47,5 +49,6 @@ This will create a standalone .exe in the dist folder.
 Share in any computer the .exe file from the dist folder.
 
 It can be run on any Windows machine without Python or additional setup.
+
 
 
